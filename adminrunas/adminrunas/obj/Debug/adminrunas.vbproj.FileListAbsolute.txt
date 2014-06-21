@@ -1,0 +1,12 @@
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\obj\Debug\adminrunas.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\obj\Debug\adminrunas.vbproj.GenerateResource.Cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\bin\Debug\adminrunas.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\bin\Debug\adminrunas.pdb
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\bin\Debug\adminrunas.xml
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\obj\Debug\adminrunas.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\obj\Debug\adminrunas.xml
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\obj\Debug\adminrunas.pdb
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\obj\Debug\adminrunas.Form_StartUp.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\obj\Debug\adminrunas.AboutBox1.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\adminrunas\adminrunas\bin\Debug\adminrunas.exe.config

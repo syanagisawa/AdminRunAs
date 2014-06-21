@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ### AdminRunAs Configuration File ### -->
+<!-- Check the applications you would like to delegate. -->
+<!-- Use the "Username", "Filename" and "WorkingDirectory" fields to specify the application you want to run. -->
+
+<!-- Example Configuration -->
+<usuarios>
+ <!-- Windows Notepad -->
+   <name codigo="WIN-SMHU7MVV2H4\Martin">
+    <FileName>C:\Windows\system32\notepad.exe</FileName>
+    <WorkingDirectory>C:\Windows\system32\</WorkingDirectory>
+  </name>
+</usuarios>
