@@ -1,6 +1,21 @@
-# AdminRunAs
+![adminrunas_logo]()
 
+# AdminRunAs
 Run As Like Administrators
+
+## Introduction
+
+AdminRunAs is a simple Windows application that handles allow different users (whether or not administrators) to execute application elevating privileges, similar to the famous sudo command of Unix / Linux operating systems. 
+
+AdminRunAs has a graphical interface which allows you to select the applications that the user can run, posting all these activities for their respective audits. 
+
+![adminrunas_gui]()
+
+Its configuration is editing a simple XML file you can define which users will be able to run the applications you want to delegate. 
+
+![adminrunas_conf]()
+
+With a more comfortable AdminRunAs functionality using the User Account Control (UAC) in Windows and integrated with fewer constraints is achieved.
 
 ## The AdminRusAs philosophy
 
