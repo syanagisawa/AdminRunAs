@@ -1,4 +1,4 @@
-![adminrunas_logo](https://github.com/tartamar/AdminRunAs/blob/master/img/adminrunas_logo.PNG)
+![adminrunas_logo](https://raw.githubusercontent.com/tartamar/AdminRunAs/master/img/adminrunas_logo.PNG)
 
 # AdminRunAs
 Run As Like Administrators
@@ -9,11 +9,11 @@ AdminRunAs is a simple Windows application that handles allow different users (w
 
 AdminRunAs has a graphical interface which allows you to select the applications that the user can run, posting all these activities for their respective audits. 
 
-![adminrunas_gui](https://github.com/tartamar/AdminRunAs/blob/master/img/adminrunas_gui.PNG)
+![adminrunas_gui](https://raw.githubusercontent.com/tartamar/AdminRunAs/master/img/adminrunas_gui.PNG)
 
 Its configuration is editing a simple XML file you can define which users will be able to run the applications you want to delegate. 
 
-![adminrunas_conf](https://github.com/tartamar/AdminRunAs/blob/master/img/adminrunas_conf.PNG)
+![adminrunas_conf](https://raw.githubusercontent.com/tartamar/AdminRunAs/master/img/adminrunas_conf.PNG)
 
 With a more comfortable AdminRunAs functionality using the User Account Control (UAC) in Windows and integrated with fewer constraints is achieved.
 
